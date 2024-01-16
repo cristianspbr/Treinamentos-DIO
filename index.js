@@ -1,8 +1,8 @@
 /*
-DESAFIO CLASSIFICADOR DE NIVEL DE HEROI
+DESAFIO CLASSIFICADOR DE NIVEL DE HEROI.
 
 O QUE DEVE SER UTILIZADO
-- Variaveis, Operadores, Laços de Repetição, Estrutura de Decisão
+- Variaveis, Operadores, Laços de Repetição, Estrutura de Decisão....
 
 OBJETIVO
 Criar uma variavel para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilize uma estrutura de decisão para apresentar alguma das mensagens abaixo:
